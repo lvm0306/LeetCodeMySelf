@@ -1,5 +1,8 @@
 package easy.code020;
 
+/**
+ * 纯纯暴力解法
+ */
 public  class Solution1 {
     public boolean isValid(String s) {
         String [] ss=new String[]{"()","[]","{}"};
